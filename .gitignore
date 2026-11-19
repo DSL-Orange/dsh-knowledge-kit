@@ -1,0 +1,13 @@
+# 忽略
+node_modules/
+*.bak
+*.bak-*
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 本地临时与私人内容（模式包里不该有）
+_信箱/**/_已处理/
+*.local.md
